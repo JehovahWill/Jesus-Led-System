@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bible Study Tools | Jesus-Led System</title>
+</head>
+<body>
+  <h1>Bible Study Tools</h1>
+  <p>Study the Word of God using these tools and resources. All are centered on truth, led by the Spirit, and guided by Jesus Christ.</p>
+
+  <h2>🔍 KJV Bible Search</h2>
+  <form method="get" action="https://www.kingjamesbibleonline.org/Search-KJV-Bible.php" target="_blank">
+    <input type="text" name="q" placeholder="Enter Bible verse or keyword" style="width:70%; padding:0.5em;">
+    <button type="submit" style="padding:0.5em;">Search</button>
+  </form>
+
+  <h2>📅 Daily Verse</h2>
+  <iframe src="https://www.kingjamesbibleonline.org/widget/DailyVerse/?width=auto" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
+
+  <h2>🧠 Study by Topic</h2>
+  <ul>
+    <li><a href="https://www.kingjamesbibleonline.org/Bible-Verses-About-Jesus/" target="_blank">Verses About Jesus</a></li>
+    <li><a href="https://www.kingjamesbibleonline.org/Bible-Verses-About-Love/" target="_blank">Verses About God’s Love</a></li>
+    <li><a href="https://www.kingjamesbibleonline.org/Bible-Verses-About-Obedience/" target="_blank">Verses About Obedience</a></li>
+  </ul>
+</body>
+</html>
